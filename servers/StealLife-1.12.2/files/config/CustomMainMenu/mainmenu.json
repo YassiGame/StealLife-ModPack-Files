@@ -1,0 +1,178 @@
+{
+    "images":
+    {
+        "logo":
+        {
+            "image" : "steallife:logo.png",
+            "posX" : -22,
+            "posY" : -95,
+            "width" : 180,
+            "height" : 180,
+            "alignment" : "center"
+        },
+        "selectionboxhorizontale":
+        {
+            "image" : "steallife:selectionbox.png",
+            "posX" : -176,
+            "posY" : -95,
+            "width" : 126,
+            "height" : 192,
+            "alignment" : "center"
+        },
+        "selectionboxlarge":
+        {
+            "image" : "steallife:selectionboxlarge.png",
+            "posX" : -195,
+            "posY" : 55,
+            "width" : 186,
+            "height" : 34,
+            "alignment" : "center"
+        },
+        "forgeminecraftlogo":
+        {
+            "image" : "steallife:forgeminecraftlogo.png",
+            "posX" : -178.9,
+            "posY" : -81,
+            "width" : 132,
+            "height" : 41,
+            "alignment" : "center"
+        },
+        "logo-text":
+        {
+            "image" : "steallife:logotext.png",
+            "posX" : -185,
+            "posY" : 64,
+            "width" : 94.75,
+            "height" : 17,
+            "alignment" : "center"
+        }
+    },
+ 
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -158,
+            "posY" : -10,
+            "width" : 90,
+            "height" : 20,
+            "alignment" : "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+ 
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : -158,
+            "posY" : -35,
+            "width" : 90,
+            "height" : 20,
+            "alignment" : "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+ 
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+            "posX" : -158,
+            "posY" : 15,
+            "width" : 90,
+            "height" : 20,
+            "alignment" : "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+ 
+        "options":
+        {
+            "text" : "",
+            "posX" : -87,
+            "posY" : 61,
+            "width" : 22,
+            "height" : 20,
+            "imageWidth" : 1100,
+            "imageHeight" : 950,
+            "alignment" : "center",
+            "texture" : "steallife:settings.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+ 
+        "quit":
+        {
+            "text" : "",
+            "posX" : -40,
+            "posY" : 64,
+            "width" : 16,
+            "height" : 16,
+            "imageWidth" : 512,
+            "imageHeight" : 512,
+            "alignment" : "center",
+            "texture" : "steallife:logout.png",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+ 
+        "language":
+        {
+            "text" : "",
+            "posX" : -62,
+            "posY" : 63.5,
+            "width" : 16,
+            "height" : 16,
+            "imageWidth" : 512,
+            "imageHeight" : 512,
+            "alignment" : "center",
+            "texture" : "steallife:earth.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        }
+    },
+ 
+    "texts":
+    {
+
+    },
+ 
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 112,
+            "posY" : 39,
+            "alignment" : "center",
+            "texts" : "file:steallife:spashtext.txt"
+        },
+        "background":
+        {
+            "image" : "",
+            "mode" : "fill",
+            "slideshow":
+            {
+                "images" : ["backgrounds:background1.png","backgrounds:background2.jpg","backgrounds:background3.png","backgrounds:background4.png","backgrounds:background5.jpg","backgrounds:background6.png","backgrounds:background7.png","backgrounds:background8.png","backgrounds:background9.png","backgrounds:background10.png","backgrounds:background11.jpg","backgrounds:background12.jpg","backgrounds:background13.png"],
+                "displayDuration" : 100,
+                "fadeDuration" : 80
+            }
+        }
+    }
+}
