@@ -1,11 +1,6 @@
 {
   "$schema": "file:///C:/Users/YassiPc/Desktop/testo/schemas/DistroMetaSchema.schema.json",
   "meta": {
-    "rss": "https://westeroscraft.com/articles/index.rss",
-    "discord": {
-      "clientId": "953667521230286888",
-      "smallImageText": "A Minecraft Launcher",
-      "smallImageKey": "minecraft-logo"
-    }
+    "rss": "https://westeroscraft.com/articles/index.rss"
   }
 }
