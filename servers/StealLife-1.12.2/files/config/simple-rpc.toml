@@ -19,7 +19,7 @@
 	#Enable/Disable the Game Loading Event
 	enabled = true
 	#The first line of text under the app name
-	description = "StealLife | Minecraft is loading"
+	description = "%player% | Minecraft is loading"
 	#The second line of text under the app name
 	state = "Game Starting..."
 	#The Asset ID of the image to display as the large image
@@ -39,16 +39,12 @@
 		label = "📺・Site"
 		url = "https://steallifefr.tk/"
 
-	[[init.buttons]]
-		label = "🎈・Launcher"
-		url = "https://steallifefr.tk/launcher"
-
 #The Main Menu event
 [main_menu]
 	#Enable/Disable the Main Menu Event
 	enabled = true
 	#The first line of text under the app name
-	description = "StealLife | %player% is currently lazy"
+	description = "%player% | Is currently lazy"
 	#The seconds line of text under the app name
 	state = "Chilling in the menu"
 	#The Asset ID of the image to display as the large image
@@ -68,16 +64,12 @@
 		label = "📺・Site"
 		url = "https://steallifefr.tk/"
 
-	[[main_menu.buttons]]
-		label = "🎈・Launcher"
-		url = "https://steallifefr.tk/launcher"
-
 #The Server List event
 [server_list]
 	#Enable/Disable the Server List Event
 	enabled = true
 	#The first line of text under the app name
-	description = "StealLife | %player% is looking for a server"
+	description = "%player% | Is looking for a server"
 	#The second line of text under the app name
 	state = "Searching for friends"
 	#The Asset ID of the image to display as the large image
@@ -97,16 +89,12 @@
 		label = "📺・Site"
 		url = "https://steallifefr.tk/"
 
-	[[server_list.buttons]]
-		label = "🎈・Launcher"
-		url = "https://steallifefr.tk/launcher"
-
 #The Join Game Event
 [join_game]
 	#Enable/Disable the Join Game Event
 	enabled = true
 	#The first line of text under the app name
-	description = "%player% is joining a game"
+	description = "%player% | Is joining a game"
 	#The second line of text under the app name
 	state = "Joining Game"
 	#The Asset ID of the image to display as the large image
@@ -126,16 +114,12 @@
 		label = "📺・Site"
 		url = "https://steallifefr.tk/"
 
-	[[join_game.buttons]]
-		label = "🎈・Launcher"
-		url = "https://steallifefr.tk/launcher"
-
 #The Single Player Event
 [single_player]
 	#Enable/Disable the Single Player Event
 	enabled = true
 	#The first line of text under the app name
-	description = "StealLife | %player% Currently In %world%"
+	description = "%player% | Currently In %world%"
 	#The second line of text under the app name
 	state = "Playing lonely mode (Sucks)"
 	#The Asset ID of the image to display as the large image
@@ -155,18 +139,14 @@
 		label = "📺・Site"
 		url = "https://steallifefr.tk/"
 
-	[[single_player.buttons]]
-		label = "🎈・Launcher"
-		url = "https://steallifefr.tk/launcher"
-
 #The Multi Player Event
 [multi_player]
 	#Enable/Disable the Multi Player Event
 	enabled = true
 	#The first line of text under the app name
-	description = "StealLife | %player% Playing online"
+	description = "%player% | Playing online"
 	#The second line of text under the app name
-	state = "Playing on %servername% with %players% players"
+	state = "Playing with %players% players"
 	#The Asset ID of the image to display as the large image
 	largeImageKey = "logo"
 	#The text that gets displayed when the large image is hovered
@@ -184,14 +164,10 @@
 		label = "📺・Site"
 		url = "https://steallifefr.tk/"
 
-	[[multi_player.buttons]]
-		label = "🎈・Launcher"
-		url = "https://steallifefr.tk/launcher"
-
 #Fallback event for disabled events
 [generic]
 	#The first line of text under the app name
-	description = "StealLife | %player% Playing Minecraft"
+	description = "%player% | Playing Minecraft"
 	#The second line of text under the app name
 	state = "%player% has voided, no more info !"
 	#The Asset ID of the image to display as the large image
@@ -210,10 +186,6 @@
 	[[generic.buttons]]
 		label = "📺・Site"
 		url = "https://steallifefr.tk/"
-
-	[[generic.buttons]]
-		label = "🎈・Launcher"
-		url = "https://steallifefr.tk/launcher"
 
 #Dimension Information Overrides
 [dimension_overrides]
