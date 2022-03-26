@@ -32,11 +32,11 @@
 	smallImageText = "A Minecraft Launcher with %mods% mods installed"
 	#The buttons to display on Discord
 	[[init.buttons]]
-		label = "🎆・Discord"
+		label = "Discord"
 		url = "https://steallifefr.tk/discord"
 
 	[[init.buttons]]
-		label = "📺・Site"
+		label = "Site"
 		url = "https://steallifefr.tk/"
 
 #The Main Menu event
@@ -112,7 +112,7 @@
 
 	[[join_game.buttons]]
 		label = "📺・Site"
-		url = "https://steallifefr.tk/"
+		url = "https://steallifefr.tk"
 
 #The Single Player Event
 [single_player]
@@ -137,7 +137,7 @@
 
 	[[single_player.buttons]]
 		label = "📺・Site"
-		url = "https://steallifefr.tk/"
+		url = "https://steallifefr.tk"
 
 #The Multi Player Event
 [multi_player]
@@ -162,7 +162,7 @@
 
 	[[multi_player.buttons]]
 		label = "📺・Site"
-		url = "https://steallifefr.tk/"
+		url = "https://steallifefr.tk"
 
 #Fallback event for disabled events
 [generic]
@@ -185,7 +185,7 @@
 
 	[[generic.buttons]]
 		label = "📺・Site"
-		url = "https://steallifefr.tk/"
+		url = "https://steallifefr.tk"
 
 #Dimension Information Overrides
 [dimension_overrides]
