@@ -6,7 +6,7 @@
       "id": "StealLife-1.12.2",
       "name": "StealLife (Forge 1.12.2)",
       "description": "StealLife, One Hearth, No Probelm !",
-      "icon": "https://cdn.discordapp.com/attachments/955529733779619880/955529899941183518/Steal_Life_Logo_2022.png",
+      "icon": null,
       "version": "1.0.3",
       "address": "game1.librahost.fr:25575",
       "minecraftVersion": "1.12.2",
@@ -2073,13 +2073,24 @@
           }
         },
         {
+          "id": "quark.cfg",
+          "name": "quark.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 109438,
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/StealLife-1.12.2/files/config/quark.cfg",
+            "MD5": "34cafe9a0aeeb95009225070f71965cd",
+            "path": "config/quark.cfg"
+          }
+        },
+        {
           "id": "simple-rpc.toml",
           "name": "simple-rpc.toml",
           "type": "File",
           "artifact": {
-            "size": 7696,
+            "size": 7678,
             "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/StealLife-1.12.2/files/config/simple-rpc.toml",
-            "MD5": "c1018687b80532a78beffc26f1b8bd49",
+            "MD5": "bdcd28249831b7738085a72a97b05d17",
             "path": "config/simple-rpc.toml"
           }
         },

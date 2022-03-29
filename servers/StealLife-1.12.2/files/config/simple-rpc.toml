@@ -32,11 +32,11 @@
 	smallImageText = "A Minecraft Launcher with %mods% mods installed"
 	#The buttons to display on Discord
 	[[init.buttons]]
-		label = "Discord"
+		label = "🎆・Discord"
 		url = "https://steallifefr.tk/discord"
 
 	[[init.buttons]]
-		label = "Site"
+		label = "📺・Site"
 		url = "https://steallifefr.tk/"
 
 #The Main Menu event
