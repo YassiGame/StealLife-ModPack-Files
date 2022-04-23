@@ -4,7 +4,7 @@
   "servers": [
     {
       "id": "LaContre-1.16.5",
-      "name": "La Contrée des royaumes V2 (Forge Lite 1.16.5)",
+      "name": "La Contrée des royaumes V2",
       "description": "La Contrée des royaumes moderne ? Enfin, je pense...",
       "icon": "https://cdn.discordapp.com/attachments/967416326798856192/967416743054147665/Sans_titre2.jpg",
       "version": "1.0.0",
