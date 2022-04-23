@@ -1,10 +1,10 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.1",
   "rss": "https://westeroscraft.com/articles/index.rss",
   "servers": [
     {
       "id": "LaContre-1.16.5",
-      "name": "La Contrée des royaumes V2",
+      "name": "La Contrée des royaumes V2 (Forge Lite 1.16.5)",
       "description": "La Contrée des royaumes moderne ? Enfin, je pense...",
       "icon": "https://cdn.discordapp.com/attachments/967416326798856192/967416743054147665/Sans_titre2.jpg",
       "version": "1.0.1",
@@ -369,6 +369,116 @@
           }
         },
         {
+          "id": "me.shedaniel:architectury:1.31.60@jar",
+          "name": "Architectury",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 551717,
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/architectury-1.31.60.jar",
+            "MD5": "b7eeb3cd6f06ead9bd33b751b4f56adf"
+          }
+        },
+        {
+          "id": "com.jtorleonstudio:awesomedungeonend:1.0.1@jar",
+          "name": "Awesome Dungeon End",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 161912,
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/AwesomeDungeonEnd-Forge-1.16.5-1.0.1.jar",
+            "MD5": "b81d2e0a53c4e8f390e26cb3e428381c"
+          }
+        },
+        {
+          "id": "com.jtorleonstudio.awesomendungeonether:awesomedungeonnether:1.0.1@jar",
+          "name": "Awesome Dungeon Nether",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 194306,
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/AwesomeDungeonNether-Forge-1.16.5-1.0.1.jar",
+            "MD5": "a8c4602a27010a728cec6f21499fca41"
+          }
+        },
+        {
+          "id": "com.command_block.www:awesomedungeonocean:2.0.5@jar",
+          "name": "Awesome Dungeon Ocean",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 268749,
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/AwesomeDungeonOcean-Forge-1.16.5-2.0.5.jar",
+            "MD5": "f678b7441d2d0674a69af42fee4d5cb0"
+          }
+        },
+        {
+          "id": "dev.itsmeow:betteranimalsplus:1.16.5-11.0.5@jar",
+          "name": "Better Animals Plus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2175212,
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/betteranimalsplus-1.16.5-11.0.5-forge.jar",
+            "MD5": "a3a71c5fb87235a1341b1cbc9bdbdaad"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:bettercaves:1.16.4-1.1.2@jar",
+          "name": "YUNG's Better Caves",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1402482,
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/BetterCaves-Forge-1.16.4-1.1.2.jar",
+            "MD5": "2a4d2750e78156a6efcbb2ea932d4e6e"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterdungeons:1.16.4-1.2.1@jar",
+          "name": "YUNG's Better Dungeons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 510439,
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/BetterDungeons-1.16.4-1.2.1.jar",
+            "MD5": "a51b4f9c3e0e9fbdb3be8751dd2fc24e"
+          }
+        },
+        {
+          "id": "mod.beethoven92:betterendforge:1.16.5-1.6.3@jar",
+          "name": "BetterEnd Forge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 81199992,
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/betterendforge-1.16.5-1.6.3.jar",
+            "MD5": "3ba6c4744fb853b099e838b8e90adc15"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:bettermineshafts:1.16.4-2.0.4@jar",
+          "name": "YUNG's Better Mineshafts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 289307,
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/BetterMineshafts-Forge-1.16.4-2.0.4.jar",
+            "MD5": "94a88366c2e6846b32c5df0a5f044d07"
+          }
+        },
+        {
+          "id": "someoneelse.betternetherreforged:betternether:1.2@jar",
+          "name": "Better Nether Reforged",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 22443866,
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/betternether_reforged-1.2.jar",
+            "MD5": "f7f15ec4908c31fa4b71a441c59f2c2a"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterstrongholds:1.16.4-1.2.1@jar",
+          "name": "YUNG's Better Strongholds",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 541396,
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/BetterStrongholds-1.16.4-1.2.1.jar",
+            "MD5": "47c3af75b76034d5952c0df6440cd3e4"
+          }
+        },
+        {
           "id": "biomesoplenty.core:biomesoplenty:1.16.5-13.1.0.486@jar",
           "name": "Biomes O' Plenty",
           "type": "ForgeMod",
@@ -376,6 +486,16 @@
             "size": 3651046,
             "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/BiomesOPlenty-1.16.5-13.1.0.486-universal.jar",
             "MD5": "2967bbf701add4922933fdf0815df05e"
+          }
+        },
+        {
+          "id": "net.mcreator.cavesandcliffs:caves_and_cliffs:1.1.5@jar",
+          "name": "Caves And Cliffs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2694233,
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/CC(FG1.16.5)%20v1.1.5.jar",
+            "MD5": "9b0d841fcb9f0f37b17c1d9bc7642c93"
           }
         },
         {
@@ -436,6 +556,16 @@
           }
         },
         {
+          "id": "net.aurelj:dungeons_arise:2.1.49@jar",
+          "name": "When Dungeons Arise",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5544981,
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/DungeonsArise-1.16.5-2.1.49-beta.jar",
+            "MD5": "3fb03d325ae6459f9352bcc6a1c632c8"
+          }
+        },
+        {
           "id": "dev.tr7zw.firstperson:firstpersonmod:2.0.1@jar",
           "name": "FirstPersonModel Mod",
           "type": "ForgeMod",
@@ -450,6 +580,16 @@
           }
         },
         {
+          "id": "sonar.fluxnetworks:fluxnetworks:6.2.1.14@jar",
+          "name": "Flux Networks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 468128,
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/FluxNetworks-1.16.5-6.2.1.14.jar",
+            "MD5": "966c1e375dbcbb23952afb37893295df"
+          }
+        },
+        {
           "id": "com.jozufozu:flywheel:1.16-0.2.5@jar",
           "name": "Flywheel",
           "type": "ForgeMod",
@@ -457,6 +597,56 @@
             "size": 420923,
             "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/flywheel-1.16-0.2.5.jar",
             "MD5": "0964200fddbd4ff67dfab63c5aae161a"
+          }
+        },
+        {
+          "id": "com.feed_the_beast.mods:ftbbackups:2.1.2.2@jar",
+          "name": "FTB Backups",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 44027,
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/ftb-backups-2.1.2.2.jar",
+            "MD5": "4bf6828a6501cf79eddfd133de68c38f"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbchunks:1605.3.2-build.115@jar",
+          "name": "FTB Chunks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 737811,
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/ftb-chunks-forge-1605.3.2-build.115.jar",
+            "MD5": "859cc1e34f4febac50e056393d4bc73e"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbessentials:1605.1.5-build.32@jar",
+          "name": "FTB Essentials",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 77378,
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/ftb-essentials-1605.1.5-build.32.jar",
+            "MD5": "5832979515c2036d8560907d9f96201b"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftblibrary:1605.3.4-build.90@jar",
+          "name": "FTB Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 585125,
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/ftb-library-forge-1605.3.4-build.90.jar",
+            "MD5": "88b4c3497d1aa260481bd74e464a3d70"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbteams:1605.2.3-build.40@jar",
+          "name": "FTB Teams",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 171679,
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/ftb-teams-forge-1605.2.3-build.40.jar",
+            "MD5": "08d807589127eac26626d36ac36d1b21"
           }
         },
         {
@@ -504,6 +694,16 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "com.command_block:libraryferret:1.0.3@jar",
+          "name": "Library ferret",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6636,
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/LibraryFerret-Forge-1.16.5-1.0.3.jar",
+            "MD5": "86bfa159c21ff871538f9d6117723635"
           }
         },
         {
@@ -645,12 +845,33 @@
             "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/Waystones_1.16.5-7.6.4.jar",
             "MD5": "a73806ee8f30e26705503013a54a5961"
           }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:yungsapi:1.16.4-Forge-13@jar",
+          "name": "YUNG's API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 106058,
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/YungsApi-1.16.4-Forge-13.jar",
+            "MD5": "d9bb57c12da921556bfd981c37f9a49a"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4770,
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/files/options.txt",
+            "MD5": "55f41bd454210d9ebe34bd71af85b137",
+            "path": "options.txt"
+          }
         }
       ]
     },
     {
       "id": "StealLife-1.12.2",
-      "name": "StealLife [REVIVE MODE] (Forge 1.12.2)",
+      "name": "StealLife (Forge 1.12.2)",
       "description": "StealLife, One Hearth, No Probelm !",
       "icon": "https://cdn.discordapp.com/attachments/967416326798856192/967424033136214086/LoadingSeal9.png",
       "version": "1.0.3",
