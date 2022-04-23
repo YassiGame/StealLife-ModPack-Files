@@ -1,0 +1,15 @@
+{
+  "$schema": "file:///C:/Users/YassiPc/Documents/GitHub/StealLife-ModPack-Files/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "La Contrée des royaumes V2 (Forge Lite 1.16.5)",
+    "description": "La Contrée des royaumes moderne ? Enfin, je pense...",
+    "address": "game1.librahost.fr:25575",
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "36.2.34"
+  },
+  "untrackedFiles": []
+}

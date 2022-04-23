@@ -6,7 +6,7 @@
     "description": "StealLife, One Hearth, No Probelm !",
     "icon": "https://cdn.discordapp.com/attachments/955529733779619880/955529899941183518/Steal_Life_Logo_2022.png",
     "address": "game1.librahost.fr:25575",
-    "mainServer": true,
+    "mainServer": false,
     "autoconnect": false
   },
   "forge": {
