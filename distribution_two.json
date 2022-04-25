@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.5",
   "rss": "https://westeroscraft.com/articles/index.rss",
   "servers": [
     {
@@ -919,8 +919,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5520538,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/OptiFine_1.16.5_HD_U_G8_MOD.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/optionaloff/OptiFine_1.16.5_HD_U_G8_MOD.jar",
             "MD5": "3a5c7c0e4377175caf13f874e6a4156c"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
