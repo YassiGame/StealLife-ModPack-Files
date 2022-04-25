@@ -1,9 +1,9 @@
 {
   "$schema": "file:///C:/Users/YassiPc/Documents/GitHub/StealLife-ModPack-Files/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0",
-    "name": "La Contrée des royaumes V2",
-    "description": "La Contrée des royaumes moderne ? Enfin, je pense...",
+    "version": "1.1.2",
+    "name": "La Contrée Des Royaumes V2",
+    "description": "La Contrée Des Royaumes Moderne ? Enfin, je pense...",
     "address": "game1.librahost.fr:25575",
     "mainServer": true,
     "autoconnect": false

@@ -1,13 +1,13 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.0",
   "rss": "https://westeroscraft.com/articles/index.rss",
   "servers": [
     {
-      "id": "LaContre-1.16.5",
-      "name": "La Contrée des royaumes V2",
-      "description": "La Contrée des royaumes moderne ? Enfin, je pense...",
+      "id": "LaContreDesRoyaumes-1.16.5",
+      "name": "La Contrée Des Royaumes V2",
+      "description": "La Contrée Des Royaumes Moderne ? Enfin, je pense...",
       "icon": "https://cdn.discordapp.com/attachments/967416326798856192/967416743054147665/Sans_titre2.jpg",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "address": "game1.librahost.fr:25575",
       "minecraftVersion": "1.16.5",
       "mainServer": true,
@@ -341,26 +341,12 @@
           ]
         },
         {
-          "id": "dev.tr7zw.skinlayers:skinlayers3d:1.1.0@jar",
-          "name": "3dSkinLayers",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 380495,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/optionaloff/3dSkinLayers-forge-1.1.0.jar",
-            "MD5": "dba8ab24194f55b0cc4d5d1039ce86e3"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
           "id": "com.lothrazar:absentbydesign:1.16.5-1.5.2@jar",
           "name": "Absent By Design Mod",
           "type": "ForgeMod",
           "artifact": {
             "size": 991614,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/absentbydesign-1.16.5-1.5.2.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/absentbydesign-1.16.5-1.5.2.jar",
             "MD5": "dfcaffb417812e66883c4d0f172cb4cb"
           }
         },
@@ -370,7 +356,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 47735,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/optionaloff/appleskin-forge-mc1.16.x-2.4.0.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/optionaloff/appleskin-forge-mc1.16.x-2.4.0.jar",
             "MD5": "ec6a10073c12f4e2ca787f3a808d9531"
           },
           "required": {
@@ -384,7 +370,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 551717,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/architectury-1.31.60.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/architectury-1.31.60.jar",
             "MD5": "b7eeb3cd6f06ead9bd33b751b4f56adf"
           }
         },
@@ -394,7 +380,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 57279,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/AutoRegLib-1.6-49.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/AutoRegLib-1.6-49.jar",
             "MD5": "16302251afc7a757f00899b270cc0fa2"
           }
         },
@@ -404,7 +390,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 161912,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/AwesomeDungeonEnd-Forge-1.16.5-1.0.1.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/AwesomeDungeonEnd-Forge-1.16.5-1.0.1.jar",
             "MD5": "b81d2e0a53c4e8f390e26cb3e428381c"
           }
         },
@@ -414,7 +400,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 194306,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/AwesomeDungeonNether-Forge-1.16.5-1.0.1.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/AwesomeDungeonNether-Forge-1.16.5-1.0.1.jar",
             "MD5": "a8c4602a27010a728cec6f21499fca41"
           }
         },
@@ -424,7 +410,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 268749,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/AwesomeDungeonOcean-Forge-1.16.5-2.0.5.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/AwesomeDungeonOcean-Forge-1.16.5-2.0.5.jar",
             "MD5": "f678b7441d2d0674a69af42fee4d5cb0"
           }
         },
@@ -434,7 +420,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2175212,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/betteranimalsplus-1.16.5-11.0.5-forge.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/betteranimalsplus-1.16.5-11.0.5-forge.jar",
             "MD5": "a3a71c5fb87235a1341b1cbc9bdbdaad"
           }
         },
@@ -444,7 +430,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1402482,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/BetterCaves-Forge-1.16.4-1.1.2.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/BetterCaves-Forge-1.16.4-1.1.2.jar",
             "MD5": "2a4d2750e78156a6efcbb2ea932d4e6e"
           }
         },
@@ -454,7 +440,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 510439,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/BetterDungeons-1.16.4-1.2.1.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/BetterDungeons-1.16.4-1.2.1.jar",
             "MD5": "a51b4f9c3e0e9fbdb3be8751dd2fc24e"
           }
         },
@@ -464,7 +450,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 81199992,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/betterendforge-1.16.5-1.6.3.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/betterendforge-1.16.5-1.6.3.jar",
             "MD5": "3ba6c4744fb853b099e838b8e90adc15"
           }
         },
@@ -474,7 +460,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 289307,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/BetterMineshafts-Forge-1.16.4-2.0.4.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/BetterMineshafts-Forge-1.16.4-2.0.4.jar",
             "MD5": "94a88366c2e6846b32c5df0a5f044d07"
           }
         },
@@ -484,7 +470,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 22443866,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/betternether_reforged-1.2.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/betternether_reforged-1.2.jar",
             "MD5": "f7f15ec4908c31fa4b71a441c59f2c2a"
           }
         },
@@ -494,7 +480,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 541396,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/BetterStrongholds-1.16.4-1.2.1.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/BetterStrongholds-1.16.4-1.2.1.jar",
             "MD5": "47c3af75b76034d5952c0df6440cd3e4"
           }
         },
@@ -504,7 +490,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3651046,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/BiomesOPlenty-1.16.5-13.1.0.486-universal.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/BiomesOPlenty-1.16.5-13.1.0.486-universal.jar",
             "MD5": "2967bbf701add4922933fdf0815df05e"
           }
         },
@@ -514,7 +500,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 912083,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/buildinggadgets-1.16.5-3.8.2.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/buildinggadgets-1.16.5-3.8.2.jar",
             "MD5": "a9dc9476e45c914832926dc881ca2f63"
           }
         },
@@ -524,7 +510,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 273299,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/camera-1.16.5-1.0.14.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/camera-1.16.5-1.0.14.jar",
             "MD5": "91f52f8feec00dfe0aed9a851c19b7ea"
           }
         },
@@ -534,7 +520,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2694233,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/CC(FG1.16.5)%20v1.1.5.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/CC(FG1.16.5)%20v1.1.5.jar",
             "MD5": "9b0d841fcb9f0f37b17c1d9bc7642c93"
           }
         },
@@ -544,7 +530,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2033912,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/cfm-7.0.0pre22-1.16.3.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/cfm-7.0.0pre22-1.16.3.jar",
             "MD5": "b2a5f7a361279de6bb5f51246ad36484"
           }
         },
@@ -554,7 +540,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 64058,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/optionalon/classicbar-4.1.0-1.16.5.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/optionalon/classicbar-4.1.0-1.16.5.jar",
             "MD5": "edba6d6040e629b695f4a68aad05a854"
           },
           "required": {
@@ -567,7 +553,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 55307,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/optionaloff/Controlling-7.0.0.28.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/optionaloff/Controlling-7.0.0.28.jar",
             "MD5": "e7f729432d2236d3fccac400ffb1dd5c"
           },
           "required": {
@@ -581,7 +567,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 111189,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/CraftingTweaks_1.16.5-12.2.1.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/CraftingTweaks_1.16.5-12.2.1.jar",
             "MD5": "8569d337eb97f93c664f5e325adaf535"
           }
         },
@@ -591,7 +577,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2088969,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/crashutilities-3.13.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/crashutilities-3.13.jar",
             "MD5": "1d42bed0db1ae11b414eb2776193282b"
           }
         },
@@ -601,7 +587,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11564279,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/create-mc1.16.5_v0.3.2g.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/create-mc1.16.5_v0.3.2g.jar",
             "MD5": "84ec13d5bccfa71a09783ecb6e089b20"
           }
         },
@@ -611,7 +597,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 834203,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/createaddition-1.16.5-20220129a.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/createaddition-1.16.5-20220129a.jar",
             "MD5": "250fd90a842bb6c1071c58f09ff2febf"
           }
         },
@@ -621,7 +607,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2408566,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/createdeco-1.1.2-1.16.5.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/createdeco-1.1.2-1.16.5.jar",
             "MD5": "9afa5c27642d40a8458a9ed0b36d4a7f"
           }
         },
@@ -631,7 +617,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1821233,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/Croptopia-1.16.4-FORGE-1.4.2.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/Croptopia-1.16.4-FORGE-1.4.2.jar",
             "MD5": "60d525e92ef1ac95f6867bbe19d622ca"
           }
         },
@@ -641,7 +627,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 158447,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/Cucumber-1.16.5-4.1.12.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/Cucumber-1.16.5-4.1.12.jar",
             "MD5": "1b1e07613fc0b36cb6194a6bd60a4672"
           }
         },
@@ -651,7 +637,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5544981,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/DungeonsArise-1.16.5-2.1.49-beta.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/DungeonsArise-1.16.5-2.1.49-beta.jar",
             "MD5": "3fb03d325ae6459f9352bcc6a1c632c8"
           }
         },
@@ -661,7 +647,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 46532,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/optionalon/entityculling-forge-mc1.16.5-1.5.2.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/optionalon/entityculling-forge-mc1.16.5-1.5.2.jar",
             "MD5": "8696ac24f0d209aadaf754bed9c2e1f6"
           },
           "required": {
@@ -674,7 +660,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 468128,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/FluxNetworks-1.16.5-6.2.1.14.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/FluxNetworks-1.16.5-6.2.1.14.jar",
             "MD5": "966c1e375dbcbb23952afb37893295df"
           }
         },
@@ -684,7 +670,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 420923,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/flywheel-1.16-0.2.5.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/flywheel-1.16-0.2.5.jar",
             "MD5": "0964200fddbd4ff67dfab63c5aae161a"
           }
         },
@@ -694,7 +680,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 752796,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/FramedBlocks-2.15.0.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/FramedBlocks-2.15.0.jar",
             "MD5": "3571e9f9fdefb54b1b2fb25e5109b421"
           }
         },
@@ -704,7 +690,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 44027,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/ftb-backups-2.1.2.2.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/ftb-backups-2.1.2.2.jar",
             "MD5": "4bf6828a6501cf79eddfd133de68c38f"
           }
         },
@@ -714,7 +700,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 737811,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/ftb-chunks-forge-1605.3.2-build.115.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/ftb-chunks-forge-1605.3.2-build.115.jar",
             "MD5": "859cc1e34f4febac50e056393d4bc73e"
           }
         },
@@ -724,7 +710,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 77378,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/ftb-essentials-1605.1.5-build.32.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/ftb-essentials-1605.1.5-build.32.jar",
             "MD5": "5832979515c2036d8560907d9f96201b"
           }
         },
@@ -734,7 +720,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 585125,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/ftb-library-forge-1605.3.4-build.90.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/ftb-library-forge-1605.3.4-build.90.jar",
             "MD5": "88b4c3497d1aa260481bd74e464a3d70"
           }
         },
@@ -744,7 +730,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 64964,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/ftb-ranks-forge-1605.1.5-build.16.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/ftb-ranks-forge-1605.1.5-build.16.jar",
             "MD5": "aec24c6a685df4be51313ea06247e7d0"
           }
         },
@@ -754,7 +740,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 171679,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/ftb-teams-forge-1605.2.3-build.40.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/ftb-teams-forge-1605.2.3-build.40.jar",
             "MD5": "08d807589127eac26626d36ac36d1b21"
           }
         },
@@ -764,7 +750,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3277401,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/H.E.M+V0.4.3M.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/H.E.M+V0.4.3M.jar",
             "MD5": "b6e6e3abb8a2981c2a52e69a3a658450"
           }
         },
@@ -774,7 +760,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 258298,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/ironchest-1.16.5-11.2.21.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/ironchest-1.16.5-11.2.21.jar",
             "MD5": "ad813ff46d3c9ba127e1033bfe957758"
           }
         },
@@ -784,7 +770,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 493742,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/ironfurnaces-1.16.5-2.7.7.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/ironfurnaces-1.16.5-2.7.7.jar",
             "MD5": "14d38f66b4b514aa7b03264c13599489"
           }
         },
@@ -794,7 +780,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 828677,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/jei-1.16.5-7.7.1.152.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/jei-1.16.5-7.7.1.152.jar",
             "MD5": "fb5fe43b43be01abc6c24eff29791b52"
           }
         },
@@ -804,7 +790,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6685744,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/optionalon/journeymap-1.16.5-5.8.1.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/optionalon/journeymap-1.16.5-5.8.1.jar",
             "MD5": "bfcfbbfecabb267585b01d3ff4c9e283"
           },
           "required": {
@@ -817,7 +803,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6636,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/LibraryFerret-Forge-1.16.5-1.0.3.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/LibraryFerret-Forge-1.16.5-1.0.3.jar",
             "MD5": "86bfa159c21ff871538f9d6117723635"
           }
         },
@@ -827,7 +813,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 806737,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/Mantle-1.16.5-1.6.157.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/Mantle-1.16.5-1.6.157.jar",
             "MD5": "e5ee7cb043a90615d0fdacffbc1f6790"
           }
         },
@@ -837,7 +823,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11181433,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/Mekanism-1.16.5-10.1.2.457.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/Mekanism-1.16.5-10.1.2.457.jar",
             "MD5": "bcfbd6b2d63020cdbf42b9c2d643b956"
           }
         },
@@ -847,7 +833,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1078058,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/MekanismAdditions-1.16.5-10.1.2.457.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/MekanismAdditions-1.16.5-10.1.2.457.jar",
             "MD5": "694caa7a64411e7dcd85be4d40689ec1"
           }
         },
@@ -857,7 +843,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 985334,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/MekanismGenerators-1.16.5-10.1.2.457.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/MekanismGenerators-1.16.5-10.1.2.457.jar",
             "MD5": "8e0854f544510952dda70eb3c840638e"
           }
         },
@@ -867,7 +853,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 368033,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/MekanismTools-1.16.5-10.1.2.457.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/MekanismTools-1.16.5-10.1.2.457.jar",
             "MD5": "7742cf452e949b171884457cedabdce1"
           }
         },
@@ -877,7 +863,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 40560152,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/minecolonies-1.16.5-1.0.657-ALPHA.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/minecolonies-1.16.5-1.0.657-ALPHA.jar",
             "MD5": "6955e358045fa4d408aaadd595dbcc01"
           }
         },
@@ -887,7 +873,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10221,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/optionalon/modnametooltip_1.16.2-1.15.0.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/optionalon/modnametooltip_1.16.2-1.15.0.jar",
             "MD5": "0786fa0d926ebf6fdba6053937bed914"
           },
           "required": {
@@ -900,7 +886,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 58249,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/MouseTweaks-2.14-mc1.16.2.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/MouseTweaks-2.14-mc1.16.2.jar",
             "MD5": "3b4e04a9a79094149306457c7db838d5"
           }
         },
@@ -910,7 +896,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1604679,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/MysticalAgriculture-1.16.5-4.2.6.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/MysticalAgriculture-1.16.5-4.2.6.jar",
             "MD5": "b422bce3e7ccf70d9662187ab97f4161"
           }
         },
@@ -920,7 +906,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 21664,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/optionalon/Neat%201.7-27.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/optionalon/Neat%201.7-27.jar",
             "MD5": "f42a01e1a0baa1292f58a889b33cc473"
           },
           "required": {
@@ -933,11 +919,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5520538,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G8_MOD.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/OptiFine_1.16.5_HD_U_G8_MOD.jar",
             "MD5": "3a5c7c0e4377175caf13f874e6a4156c"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -946,7 +929,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 190100,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/OptiForge-MC1.16.5-0.5.7.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/OptiForge-MC1.16.5-0.5.7.jar",
             "MD5": "0a7120e414c0e0285232ff4430371d13"
           }
         },
@@ -956,7 +939,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8796901,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/Quark-r2.4-322.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/Quark-r2.4-322.jar",
             "MD5": "1144d99278adcedb6bfac69842fbdf48"
           }
         },
@@ -966,7 +949,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 423940,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/randompatches-2.4.4-forge.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/randompatches-2.4.4-forge.jar",
             "MD5": "46f910c39ee95a9dc1edf27dad5f1122"
           }
         },
@@ -976,7 +959,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 114137,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/simpleshops-1.1.3.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/simpleshops-1.1.3.jar",
             "MD5": "fb650ce5cf978d5ab09cad91e00006ad"
           }
         },
@@ -986,7 +969,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 57200,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/Simply%20Steel-1.1.0%201.16.5.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/Simply%20Steel-1.1.0%201.16.5.jar",
             "MD5": "a9439bc587755d005a7ca928a7213535"
           }
         },
@@ -996,7 +979,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1484761,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/sophisticatedbackpacks-1.16.5-3.15.13.560.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/sophisticatedbackpacks-1.16.5-3.15.13.560.jar",
             "MD5": "7b1e06b2c104382d3a8e6b79510371f3"
           }
         },
@@ -1006,7 +989,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 575661,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/StorageDrawers-1.16.3-8.5.1.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/StorageDrawers-1.16.3-8.5.1.jar",
             "MD5": "dc4993c727338dee8b1d7a8c4a6ee0b3"
           }
         },
@@ -1016,7 +999,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11404234,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/structurize-1.16.5-1.0.392-RELEASE.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/structurize-1.16.5-1.0.392-RELEASE.jar",
             "MD5": "75f723e4abecef840a1745e7805537ed"
           }
         },
@@ -1026,7 +1009,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 206650,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/supermartijn642corelib-1.0.16-mc1.16.5.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/supermartijn642corelib-1.0.16-mc1.16.5.jar",
             "MD5": "c9c66935f4da500c982b8a63dd4f1f78"
           }
         },
@@ -1036,7 +1019,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10927812,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/TConstruct-1.16.5-3.3.4.335.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/TConstruct-1.16.5-3.3.4.335.jar",
             "MD5": "27978fc015dc861fb4d856d84d123e1a"
           }
         },
@@ -1046,7 +1029,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 326985,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/theoneprobe-1.16-3.1.7.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/theoneprobe-1.16-3.1.7.jar",
             "MD5": "7a6c1857197e8f73a618459f4efb339d"
           }
         },
@@ -1056,7 +1039,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1388572,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/tombstone-6.7.4-1.16.5.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/tombstone-6.7.4-1.16.5.jar",
             "MD5": "815628c7732860c11a0e8cfefc87e197"
           }
         },
@@ -1066,7 +1049,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 242649,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/ToolBelt-1.16.5-1.16.2.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/ToolBelt-1.16.5-1.16.2.jar",
             "MD5": "af07dd98987eed1a1ef6da1ea3a452ad"
           }
         },
@@ -1076,7 +1059,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 156088,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/trashcans-1.0.14-mc1.16.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/trashcans-1.0.14-mc1.16.jar",
             "MD5": "628a63eed9c341f9bc19e1e25b73c764"
           }
         },
@@ -1086,7 +1069,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 18978003,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/Tropicraft-9.2.0-release+90.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/Tropicraft-9.2.0-release+90.jar",
             "MD5": "7543d1fa55fc63cfcfc69b613ff46b00"
           }
         },
@@ -1096,7 +1079,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 112216,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/vacuumchest-1.0.1-1.16.5.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/vacuumchest-1.0.1-1.16.5.jar",
             "MD5": "d3208b9477316d0267508e70285db3ec"
           }
         },
@@ -1106,7 +1089,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5688390,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.2.36.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.2.36.jar",
             "MD5": "caec1e13850c8fb483ff351a36d7b912"
           }
         },
@@ -1116,7 +1099,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 120406,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/VTweaks-1.16.4-3.6.2.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/VTweaks-1.16.4-3.6.2.jar",
             "MD5": "e21d0365c65614fe22b6fb53047523c2"
           }
         },
@@ -1126,7 +1109,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 375934,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/Waystones_1.16.5-7.6.4.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/Waystones_1.16.5-7.6.4.jar",
             "MD5": "a73806ee8f30e26705503013a54a5961"
           }
         },
@@ -1136,7 +1119,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 106058,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/forgemods/required/YungsApi-1.16.4-Forge-13.jar",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/forgemods/required/YungsApi-1.16.4-Forge-13.jar",
             "MD5": "d9bb57c12da921556bfd981c37f9a49a"
           }
         },
@@ -1146,7 +1129,7 @@
           "type": "File",
           "artifact": {
             "size": 83,
-            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContre-1.16.5/files/servers.dat",
+            "url": "https://github.com/YassiGame/StealLife-ModPack-Files/raw/main/servers/LaContreDesRoyaumes-1.16.5/files/servers.dat",
             "MD5": "ccee695f70239c8923c9881698f3f64c",
             "path": "servers.dat"
           }
@@ -1159,7 +1142,7 @@
       "description": "StealLife, One Hearth, No Probelm !",
       "icon": "https://cdn.discordapp.com/attachments/967416326798856192/967424033136214086/LoadingSeal9.png",
       "version": "1.0.3",
-      "address": "localhost",
+      "address": "game1.librahost.fr:25575",
       "minecraftVersion": "1.12.2",
       "mainServer": false,
       "autoconnect": false,
