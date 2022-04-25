@@ -1,13 +1,13 @@
 {
-  "version": "1.0.0",
+  "version": "1.2.3",
   "rss": "https://westeroscraft.com/articles/index.rss",
   "servers": [
     {
       "id": "LaContre-1.16.5",
       "name": "La Contrée des royaumes V2",
       "description": "La Contrée des royaumes moderne ? Enfin, je pense...",
-      "icon": null,
-      "version": "1.0.0",
+      "icon": "https://cdn.discordapp.com/attachments/967416326798856192/967416743054147665/Sans_titre2.jpg",
+      "version": "1.1.1",
       "address": "game1.librahost.fr:25575",
       "minecraftVersion": "1.16.5",
       "mainServer": true,
@@ -1157,9 +1157,9 @@
       "id": "StealLife-1.12.2",
       "name": "StealLife [REVIVE MODE] (Forge 1.12.2)",
       "description": "StealLife, One Hearth, No Probelm !",
-      "icon": null,
+      "icon": "https://cdn.discordapp.com/attachments/967416326798856192/967424033136214086/LoadingSeal9.png",
       "version": "1.0.3",
-      "address": "game1.librahost.fr:25575",
+      "address": "localhost",
       "minecraftVersion": "1.12.2",
       "mainServer": false,
       "autoconnect": false,
